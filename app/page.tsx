@@ -16,12 +16,12 @@ export default function Home() {
       <Navbar />
       <main>
         <HeroSection />
-        <TrustSection />
         <AboutSection />
         <ServicesSection />
         <PropertiesSection />
         <HotPropertiesSection />
         <ContactSection />
+        <TrustSection />
         <MapSection />
       </main>
       <Footer />
